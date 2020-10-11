@@ -1,3 +1,5 @@
+![Widget](screenshots/scriptable_widget.png)
+
 # trello-widget
 A script for the [Scriptable](scriptable.app) IOS app that generates a widget to display items from a Trello board.
 
@@ -7,5 +9,3 @@ For personal use but feel free to implement it to your own board. The specific i
 - IOS 14
 - Trello API key & token
 - Have the list id of a list starting with a card called "Today" and stopping at a card called "In Progress"
-
-![Widget](screenshots/scriptable_widget.png)
