@@ -1,4 +1,4 @@
-![Widget](screenshots/scriptable_widget.png)
+![Widget](screenshots/widget.jpeg)
 
 # trello-widget
 A script for the [Scriptable](scriptable.app) IOS app that generates a widget to display items from a Trello board.
