@@ -8,4 +8,4 @@ For personal use but feel free to implement it to your own board. The specific i
 - Trello API key & token
 - Have the list id of a list starting with a card called "Today" and stopping at a card called "In Progress"
 
-![Widget](screenshots/scriptable_widget.png) -> ![List](screenshots/list.png)
+![List](screenshots/list.png) ----> ![Widget](screenshots/scriptable_widget.png)
