@@ -3,7 +3,7 @@ A script for the [Scriptable](scriptable.app) IOS app that generates a widget to
 
 For personal use but feel free to implement it to your own board. The specific implementation is hard coded to the location and format of my daily task list but this is easily adaptable!
 
-![Widget](screenshots/widget.png) ![List](screenshots/list.png)
+![Widget](screenshots/scriptable_widget.png) ![List](screenshots/list.png)
 
 ## Requirements
 - IOS 14
