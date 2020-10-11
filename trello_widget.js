@@ -3,7 +3,6 @@ const charDisplayed = 15
 const numDisplayed = 3
 const startIndex = 1
 
-
 //trello api access keys
 let key = ''
 let token = ''
